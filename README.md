@@ -1,6 +1,7 @@
 Problema del viajero
 =====================
 El viajero debe recorrer las 5 ciudades con la menor distancia posible.
+Determine la ruta.
 
 	|          | Ciudad A | Ciudad B | Ciudad C | Ciudad D | Ciudad E |
 	| ======== | ======== | ======== | ======== | ======== | ======== |
